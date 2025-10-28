@@ -81,7 +81,7 @@ const Works = () => {
                     problems, and work with different technologies. You can head
                     over to my{' '}
                     <TextLink
-                        link='https://www.github.com/dylpark'
+                        link='https://www.github.com/dparksy'
                         label='GitHub'
                     />{' '}
                     profile, to view more of my projects.

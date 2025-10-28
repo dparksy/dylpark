@@ -30,11 +30,11 @@ const Hero = () => {
                     </p>
                     <div className='mt-2 sm:mt-4 flex flex-row gap-2 lg:gap-4'>
                         <Button
-                            link='https://www.linkedin.com/in/dylpark'
+                            link='https://www.linkedin.com/in/dparksy'
                             icon={linkedin}
                         />
                         <Button
-                            link='https://github.com/dylpark'
+                            link='https://github.com/dparksy'
                             icon={github}
                         />
                     </div>

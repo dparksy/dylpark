@@ -53,12 +53,12 @@ const About = () => {
                 <br />
                 You can reach out to me via{' '}
                 <TextLink
-                    link='https://www.linkedin.com/in/dylpark'
+                    link='https://www.linkedin.com/in/dparksy'
                     label='LinkedIn'
                 />
                 , or to view my recent work, you can check out my{' '}
                 <TextLink
-                    link='https://www.github.com/dylpark'
+                    link='https://www.github.com/dparksy'
                     label='GitHub'
                 />{' '}
                 profile.

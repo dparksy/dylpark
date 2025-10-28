@@ -224,7 +224,7 @@ const projects = [
             },
         ],
         image: linkwave,
-        source_code_link: 'https://github.com/dylpark/linkwave',
+        source_code_link: 'https://github.com/dparksy/linkwave',
     },
     {
         name: 'Moon Phase',
@@ -245,7 +245,7 @@ const projects = [
             },
         ],
         image: moonphase,
-        source_code_link: 'https://github.com/dylpark/MoonPhase-iOS',
+        source_code_link: 'https://github.com/dparksy/MoonPhase-iOS',
     },
     {
         name: 'Nest Chat',
@@ -270,7 +270,7 @@ const projects = [
             },
         ],
         image: nestchat,
-        source_code_link: 'https://github.com/dylpark/nest-chat-app/',
+        source_code_link: 'https://github.com/dparksy/nest-chat-app/',
     },
     {
         name: 'Dream App',
@@ -295,7 +295,7 @@ const projects = [
             },
         ],
         image: dreamApp,
-        source_code_link: 'https://github.com/dylpark/Dream-App',
+        source_code_link: 'https://github.com/dparksy/Dream-App',
     },
     {
         name: 'Google 2.0',
@@ -320,7 +320,7 @@ const projects = [
             },
         ],
         image: google,
-        source_code_link: 'https://github.com/dylpark/Google-2.0',
+        source_code_link: 'https://github.com/dparksy/Google-2.0',
     },
 ];
 

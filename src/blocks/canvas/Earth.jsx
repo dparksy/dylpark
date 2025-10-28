@@ -7,6 +7,17 @@ import CanvasLoader from '../Loader';
 const Earth = () => {
     const earth = useGLTF('./planet/scene.gltf');
 
+    React.useEffect(() => {
+        if (earth.scene) {
+            earth.scene.traverse((child) => {
+                if (child.isMesh && child.geometry) {
+                    child.geometry.computeBoundingBox();
+                    child.geometry.computeBoundingSphere();
+                }
+            });
+        }
+    }, [earth.scene]);
+
     return (
         <primitive
             object={earth.scene}
